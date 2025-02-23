@@ -8,5 +8,5 @@
 </div>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yz1l2ya3yvej80zmfg3l8dgpj&unique={true|1|on|yes}?theme=dark&spin=false&scan=false&rainbow=false" alt="Widget with the current Spotify song"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yz1l2ya3yvej80zmfg3l8dgpj&unique={true|1|on|yes}?theme=dark&spin=false&scan=false&rainbow=false" alt="Widget with the current Spotify song" width="1000" />
 </div>
