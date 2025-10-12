@@ -15,11 +15,9 @@
 <br>
 
 <h2>GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eerfinn&layout=compact&theme=tokyonight&hide_border=true&border_radius=11&locale=en" height="165" alt="languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=eerfinn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=11&locale=en" height="165" alt="stats" /><br><br>
 <img src="https://streak-stats.demolab.com?user=eerfinn&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=11" height="165" alt="streak graph" /><br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eerfinn&radius=11&theme=github-dark&area=true&hide_title=false&hide_border=true&locale=en" height="240" alt="activity-graph graph" />
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eerfinn&layout=compact&theme=tokyonight&hide_border=true&border_radius=11&locale=en" height="165" alt="languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=eerfinn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=11&locale=en" height="165" alt="stats" /><br>
 
 ---
 
