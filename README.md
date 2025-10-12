@@ -26,6 +26,12 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=eerfinn&color=blueviolet&style=flat-square" alt="Profile views" />
+<a href="mailto:kamajayajauhari@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=eerfinn&color=blueviolet&style=flat" alt="Profile views" />
+<a href="https://gravatar.com/eerfinn">
+  <img src="https://img.shields.io/badge/Gravatar-1E8CBE?style=flat&logo=gravatar&logoColor=white" alt="Gravatar" />
+</a>
 
 </div>
