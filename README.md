@@ -5,18 +5,6 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3Uza2ptYnYyd3JuZDgwNDN1NjJ1bXJiYnh1Z29ybWFlZ3BtOXJ0MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Yv6RcuiyHYmn6/giphy.gif" height="150"/>
 <br><br>
 
-<h2>Tech Stack</h2>
-
-| **Languages** | **Frameworks** | **Databases** | **Tools** |
-|----------------|----------------|----------------|-------------|
-| <img src="https://skillicons.dev/icons?i=html,java,js,php,css&perline=3" /> | <img src="https://skillicons.dev/icons?i=laravel,bootstrap,react,tailwind&perline=3" /> | <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase&perline=3" /> | <img src="https://skillicons.dev/icons?i=figma,powershell,postman,vscode,notion,windows&perline=3" /> |
-<br>
-
-<h2>GitHub Stats</h2>
-<img src="https://streak-stats.demolab.com?user=eerfinn&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=11" height="165" alt="streak graph" /><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eerfinn&layout=compact&theme=tokyonight&hide_border=true&border_radius=11&locale=en" height="165" alt="languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=eerfinn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=11&locale=en" height="165" alt="stats" /><br>
-
 ---
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kamajayajauhari@gmail.com)
