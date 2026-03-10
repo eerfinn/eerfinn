@@ -1,7 +1,5 @@
 <div align="center">
 
-<h1>Hi, Welcome! ✨</h1><br>
-<br>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ0cDJ3N2xhanBzZHVhcmJieTBwNXV2bWxsY2ZmcTEyeTAyemtpMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/w7CP59oLYw6PK/giphy.gif" height="150"/>
 <br><br>
 
