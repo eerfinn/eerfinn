@@ -5,7 +5,7 @@
 
 ---
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kamajayajauhari@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:erfinbrian@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=eerfinn&color=blueviolet&style=flat)](https://github.com/eerfinn)
 [![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?style=flat&logo=gravatar&logoColor=white)](https://gravatar.com/eerfinn)
 
