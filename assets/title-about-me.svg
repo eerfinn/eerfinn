@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="60" viewBox="0 0 800 60" fill="none">
+  <defs>
+    <!-- Vector Uzumaki Asli Presisi (Scaled to fit ~45px height) -->
+    <g id="uzumaki-icon">
+      <path fill="#FF6B00" stroke="#000000" stroke-width="12" stroke-linecap="butt" stroke-linejoin="miter" 
+            d="M 237.63144,9.1699894 C 224.94738,101.03563 272.53518,187.65123 342.95567,243.63893 C 593.732,421.86513 590.26728,776.12649 299.51689,841.19933 C 82.365172,870.01033 -4.844925,730.38723 12.040715,579.22315 C 11.322271,394.93797 217.18605,334.27475 311.78223,404.2768 C 463.16216,523.06385 377.90991,732.84778 201.84207,698.76628 C 156.38588,683.02426 134.90927,598.94927 172.44135,550.66642 C 213.50933,499.03065 290.52179,552.57452 263.11054,576.24698 C 242.28732,608.25043 298.73974,595.31278 298.98551,533.19262 C 284.02831,416.32947 112.43662,441.06538 83.647412,548.51304 C 52.38363,691.32734 132.09231,805.27292 302.2643,777.3289 C 494.20249,730.09145 494.54619,428.47769 318.04166,302.31594 C 228.6431,236.09367 190.62919,110.0562 237.63144,9.1699894 z"/>
+    </g>
+  </defs>
+
+  <!-- Uzumaki Kiri -->
+  <g transform="translate(15, 2) scale(0.052)">
+    <use href="#uzumaki-icon" />
+  </g>
+
+  <!-- Teks Center -->
+  <text x="400" y="32" text-anchor="middle" fill="#FF8C00" font-family="'Impact', 'Arial Black', sans-serif" font-size="26" letter-spacing="4">ABOUT ME</text>
+
+  <!-- Uzumaki Kanan (Simetris / Mirror) -->
+  <g transform="translate(785, 2) scale(-0.052, 0.052)">
+    <use href="#uzumaki-icon" />
+  </g>
+
+  <!-- Garis Bawah Full Banner -->
+  <path d="M 15 52 L 785 52" stroke="#FF6B00" stroke-width="3" stroke-linecap="round"/>
+</svg>
