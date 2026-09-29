@@ -19,9 +19,9 @@
 
 <table align="center" width="100%" border="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none; background-color: transparent;">
-    <td width="22%" valign="middle" style="border: none;"><img src="./assets/anime-gallery10.webp" width="100%" alt="Naruto artwork" /></td>
+    <td width="21%" valign="middle" style="border: none;"><img src="./assets/anime-gallery10.webp" width="100%" alt="Naruto artwork" /></td>
     <td width="56%" valign="middle" style="border: none;"><img src="https://streak-stats.demolab.com?user=eerfinn&locale=en&mode=daily&background=1C2128&ring=FF7A00&fire=FFD700&currStreakLabel=FF7A00&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true&border_radius=5" width="100%" alt="streak graph" /></td>
-    <td width="22%" valign="middle" style="border: none;"><img src="./assets/anime-gallery11.webp" width="100%" alt="Naruto artwork" /></td>
+    <td width="21%" valign="middle" style="border: none;"><img src="./assets/anime-gallery11.webp" width="100%" alt="Naruto artwork" /></td>
   </tr>
 </table>
 
@@ -59,18 +59,14 @@
 
 <br>
 
-<div align="center">
-  <table width="100%" border="0" style="border: none; border-collapse: collapse;">
-    <tr style="border: none; background-color: transparent;">
-      <td width="20%" align="right" valign="middle" style="border: none;"><img src="./assets/throwing.webp" width="60%" alt="Naruto throwing" /></td>
-      <td width="60%" align="center" valign="middle" style="border: none;">
-        <a href="https://github.com/eerfinn"><img src="https://komarev.com/ghpvc/?username=eerfinn&label=Profile%20Views&labelColor=0D1117&color=FF6B00&style=flat" alt="Profile Views" /></a><br>
-        <a href="https://www.linkedin.com/in/eerfinn/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-FF6B00?logo=linkedin-white&logoColor=fff&labelColor=0D1117" alt="LinkedIn" /></a>&nbsp;
-        <a href="mailto:erfinbrian@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=white&labelColor=0D1117&color=FF6B00" alt="Email" /></a>&nbsp;
-        <a href="https://www.instagram.com/eerfinn_/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat&logo=instagram&logoColor=white&labelColor=0D1117&color=FF6B00" alt="Instagram" /></a>&nbsp;
-      </td>
-      <td width="20%" align="left" valign="middle" style="border: none;"><img src="./assets/throwing-flip.webp" width="60%" alt="Naruto throwing" /></td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px; width: 100%;">
+  <img src="./assets/throwing.webp" width="40" alt="Naruto throwing" style="margin-right: 30px;" />
+  <div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 4px;">
+    <a href="https://www.linkedin.com/in/eerfinn/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-FF6B00?logo=linkedin-white&logoColor=fff&labelColor=0D1117" alt="LinkedIn" /></a>
+    <a href="mailto:erfinbrian@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=white&labelColor=0D1117&color=FF6B00" alt="Email" /></a>
+    <a href="https://github.com/eerfinn"><img src="https://komarev.com/ghpvc/?username=eerfinn&label=Profile%20Views&labelColor=0D1117&color=FF6B00&style=flat" alt="Profile Views" /></a>
+    <a href="https://www.instagram.com/eerfinn_/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat&logo=instagram&logoColor=white&labelColor=0D1117&color=FF6B00" alt="Instagram" /></a>
+  </div>
+  <img src="./assets/throwing-flip.webp" style="margin-left: 30px;" width="40" alt="Naruto throwing" />
 </div>
 <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ0cDJ3N2xhanBzZHVhcmJieTBwNXV2bWxsY2ZmcTEyeTAyemtpMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/w7CP59oLYw6PK/giphy.gif" height="150"/> -->
