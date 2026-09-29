@@ -34,18 +34,17 @@
 
 <img src="./assets/title-tech.svg" width="100%" alt="Tech Stack" />
 
-
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="middle" width="33%">
       <h3>Languages</h3>
       <img src="https://skillicons.dev/icons?i=html,css,php,js,java&perline=6" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="middle" width="33%">
       <h3>Frameworks &amp; Libraries</h3>
       <img src="https://skillicons.dev/icons?i=laravel,react,tailwind&perline=6" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="middle" width="33%">
       <h3>Tools &amp; Platforms</h3>
       <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,linux&perline=6" />
     </td>
