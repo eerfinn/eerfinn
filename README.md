@@ -9,13 +9,8 @@
     </td>
   </tr>
 </table>
-<!-- 
-<img src="./assets/title-about-me.svg" width="100%" alt="About Me" /> -->
-<!-- <br><br> -->
 
-<img src="./assets/title-stats.svg" width="100%" alt="About Me" />
-
-<br>
+<img src="./assets/title-stats.svg" width="100%" alt="About Me" /><br>
 
 <table align="center" width="100%" border="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none; background-color: transparent;">
@@ -32,40 +27,14 @@
   </tr>
 </table>
 
-<!-- 
-<img src="./assets/title-tech.svg" width="100%" alt="Tech Stack" />
-
-<br>
-
-<h3>Languages</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,html,css,js,java" alt="Programming languages" />
-</p>
-
-<h3>Frameworks &amp; Libraries</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind" alt="Frameworks and libraries" />
-</p>
-
-<h3>Tools &amp; Platforms</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,linux" alt="Tools and platforms" />
-</p> -->
-
 ---
-
-<br>
-
 
 [![Profile Views](https://komarev.com/ghpvc/?username=eerfinn&label=Profile%20Views&labelColor=0D1117&color=FF6B00&style=flat)](https://github.com/eerfinn) <br>
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-FF6B00?logo=linkedin-white&logoColor=fff&labelColor=0D1117)](https://www.linkedin.com/in/eerfinn/)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=white&labelColor=0D1117&color=FF6B00)](mailto:erfinbrian@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat&logo=instagram&logoColor=white&labelColor=0D1117&color=FF6B00)](https://www.instagram.com/eerfinn_/)
 
-
 </div>
 
-<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ0cDJ3N2xhanBzZHVhcmJieTBwNXV2bWxsY2ZmcTEyeTAyemtpMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/w7CP59oLYw6PK/giphy.gif" height="150"/> -->
+<!-- Naruto Ramen
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ0cDJ3N2xhanBzZHVhcmJieTBwNXV2bWxsY2ZmcTEyeTAyemtpMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/w7CP59oLYw6PK/giphy.gif" height="150"/> -->
