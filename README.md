@@ -55,18 +55,16 @@
   <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,linux" alt="Tools and platforms" />
 </p> -->
 
-<br>
-
 ---
 
 <br>
 
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=white&labelColor=0D1117&color=FF6B00)](https://www.linkedin.com/in/eerfinn/)
+[![Profile Views](https://komarev.com/ghpvc/?username=eerfinn&label=Profile%20Views&labelColor=0D1117&color=FF6B00&style=flat)](https://github.com/eerfinn) <br>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-FF6B00?logo=linkedin-white&logoColor=fff&labelColor=0D1117)](https://www.linkedin.com/in/eerfinn/)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=white&labelColor=0D1117&color=FF6B00)](mailto:erfinbrian@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=eerfinn&label=Profile%20Views&labelColor=0D1117&color=FF6B00&style=flat)](https://github.com/eerfinn)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat&logo=instagram&logoColor=white&labelColor=0D1117&color=FF6B00)](https://www.instagram.com/eerfinn_/)
+
 
 </div>
 
