@@ -1,9 +1,9 @@
 <div align="center">
 
-<table align="center" width="800">
+<table align="center" width="100%">
   <tr>
     <td align="center">
-      <img src="https://i.pinimg.com/1200x/bd/95/c9/bd95c96e0cae098e9e0f1109b9ad56c8.jpg" width="800" alt="Naruto" />
+      <img src="https://i.pinimg.com/1200x/bd/95/c9/bd95c96e0cae098e9e0f1109b9ad56c8.jpg" width="100%" alt="Naruto" />
       <h3><strong>"I never go back on my word... That's my nindo (忍道), my ninja way!"</strong></h3>
       <h4><em>— Naruto Uzumaki —</em></h4>
     </td>
@@ -17,32 +17,56 @@
 
 <br>
 
-<table align="center" width="800">
-  <tr>
-    <td width="180" valign="middle"><img src="./assets/anime-gallery10.webp" width="180" alt="Naruto artwork" /></td>
-    <td width="440" valign="middle"><img src="https://streak-stats.demolab.com?user=eerfinn&locale=en&mode=daily&background=1C2128&ring=FF7A00&fire=FFD700&currStreakLabel=FF7A00&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true&border_radius=5" width="440" alt="streak graph" /></td>
-    <td width="180" valign="middle"><img src="./assets/anime-gallery11.webp" width="180" alt="Naruto artwork" /></td>
+<table align="center" width="100%" border="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none; background-color: transparent;">
+    <td width="22%" valign="middle" style="border: none;"><img src="./assets/anime-gallery10.webp" width="100%" alt="Naruto artwork" /></td>
+    <td width="56%" valign="middle" style="border: none;"><img src="https://streak-stats.demolab.com?user=eerfinn&locale=en&mode=daily&background=1C2128&ring=FF7A00&fire=FFD700&currStreakLabel=FF7A00&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true&border_radius=5" width="100%" alt="streak graph" /></td>
+    <td width="22%" valign="middle" style="border: none;"><img src="./assets/anime-gallery11.webp" width="100%" alt="Naruto artwork" /></td>
   </tr>
 </table>
 
-<table align="center" width="800">
-  <tr>
-    <td width="270" valign="middle"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=eerfinn&layout=compact&bg_color=1C2128&title_color=FF7A00&text_color=FFFFFF&icon_color=FFD700&hide_border=true&border_radius=5&locale=en" width="270" alt="languages" /></td>
-    <td width="530" valign="middle"><img src="https://github-stats-extended.vercel.app/api?username=eerfinn&show_icons=true&bg_color=1C2128&title_color=FF7A00&text_color=FFFFFF&icon_color=FFD700&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide=stars&hide_border=true&border_radius=5&locale=en" width="530" alt="stats" /></td>
+<table align="center" width="100%" border="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none; background-color: transparent;">
+    <td width="40%" valign="middle" style="border: none;"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=eerfinn&layout=compact&bg_color=1C2128&title_color=FF7A00&text_color=FFFFFF&icon_color=FFD700&hide_border=true&border_radius=5&locale=en" width="100%" alt="languages" /></td>
+    <td width="60%" valign="middle" style="border: none;"><img src="https://github-stats-extended.vercel.app/api?username=eerfinn&show_icons=true&bg_color=1C2128&title_color=FF7A00&text_color=FFFFFF&icon_color=FFD700&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide=stars&hide_border=true&border_radius=5&locale=en" width="100%" alt="stats" /></td>
   </tr>
 </table>
+
+<!-- 
+<img src="./assets/title-tech.svg" width="100%" alt="Tech Stack" />
 
 <br>
-<!-- 
-<img src="./assets/title-tech.svg" width="100%" alt="About Me" /> -->
+
+<h3>Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,java" alt="Programming languages" />
+</p>
+
+<h3>Frameworks &amp; Libraries</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind" alt="Frameworks and libraries" />
+</p>
+
+<h3>Tools &amp; Platforms</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,linux" alt="Tools and platforms" />
+</p> -->
+
+<br>
 
 ---
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-FF7A00?style=flat&logo=gmail&logoColor=white)](mailto:erfinbrian@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=eerfinn&color=FF7A00&style=flat)](https://github.com/eerfinn)
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat&logo=linkedin&logoColor=white&labelColor=0D1117&color=FF6B00)](https://www.linkedin.com/in/eerfinn/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=white&labelColor=0D1117&color=FF6B00)](mailto:erfinbrian@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=eerfinn&label=Profile%20Views&labelColor=0D1117&color=FF6B00&style=flat)](https://github.com/eerfinn)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat&logo=instagram&logoColor=white&labelColor=0D1117&color=FF6B00)](https://www.instagram.com/eerfinn_/)
 
 </div>
 
