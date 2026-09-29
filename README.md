@@ -13,7 +13,7 @@
 <img src="./assets/title-about-me.svg" width="100%" alt="About Me" /> -->
 <!-- <br><br> -->
 
-<img src="./assets/title-stats.svg" width="100%" alt="About Me" />
+<img src="./assets/title-stats.svg" width="100%" alt="Stats" />
 
 <br>
 
@@ -32,41 +32,35 @@
   </tr>
 </table>
 
-<!--
 <img src="./assets/title-tech.svg" width="100%" alt="Tech Stack" />
 
-<br>
 
-<h3>Languages</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,html,css,js,java" alt="Programming languages" />
-</p>
-
-<h3>Frameworks &amp; Libraries</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind" alt="Frameworks and libraries" />
-</p>
-
-<h3>Tools &amp; Platforms</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,linux" alt="Tools and platforms" />
-</p> -->
-
----
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>Languages</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,php,js,java&perline=6" />
+    </td>
+    <td align="center" width="33%">
+      <h3>Frameworks &amp; Libraries</h3>
+      <img src="https://skillicons.dev/icons?i=laravel,react,tailwind&perline=6" />
+    </td>
+    <td align="center" width="33%">
+      <h3>Tools &amp; Platforms</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,linux&perline=6" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px; width: 100%;">
-  <img src="./assets/throwing.webp" width="40" alt="Naruto throwing" />
-  <div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 4px;">
-    <a href="https://github.com/eerfinn"><img src="https://komarev.com/ghpvc/?username=eerfinn&label=Profile%20Views&labelColor=0D1117&color=FF6B00&style=flat" alt="Profile Views" /></a>
-    <a href="https://www.linkedin.com/in/eerfinn/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-FF6B00?logo=linkedin-white&logoColor=fff&labelColor=0D1117" alt="LinkedIn" /></a>
-    <a href="mailto:erfinbrian@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=white&labelColor=0D1117&color=FF6B00" alt="Email" /></a>
-    <a href="https://www.instagram.com/eerfinn_/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat&logo=instagram&logoColor=white&labelColor=0D1117&color=FF6B00" alt="Instagram" /></a>
-  </div>
-  <img src="./assets/throwing-flip.webp" width="40" alt="Naruto throwing" />
-</div>
+<img src="./assets/devider.svg" width="100%" alt="Tech Stack" />
+
+<br>
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-FF6B00?logo=linkedin-white&logoColor=fff&labelColor=0D1117)](https://www.linkedin.com/in/eerfinn/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=white&labelColor=0D1117&color=FF6B00)](mailto:erfinbrian@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=eerfinn&label=Profile%20Views&labelColor=0D1117&color=FF6B00&style=flat)](https://github.com/eerfinn)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat&logo=instagram&logoColor=white&labelColor=0D1117&color=FF6B00)](https://www.instagram.com/eerfinn_/)
+
 <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ0cDJ3N2xhanBzZHVhcmJieTBwNXV2bWxsY2ZmcTEyeTAyemtpMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/w7CP59oLYw6PK/giphy.gif" height="150"/> -->

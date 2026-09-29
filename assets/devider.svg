@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="20" viewBox="0 0 800 20" fill="none">
+  <!-- Garis Pemisah (Sama Presisi Ketebalan, Posisi X, dan Warna dengan Banner Judul) -->
+  <path d="M 15 10 L 785 10" stroke="#FF6B00" stroke-width="3" stroke-linecap="round"/>
+</svg>
