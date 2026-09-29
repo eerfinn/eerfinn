@@ -62,14 +62,14 @@
 <div align="center">
   <table width="100%" border="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none; background-color: transparent;">
-      <td width="20%" align="right" valign="middle" style="border: none;"><img src="./assets/throwing.png" width="60%" alt="Naruto throwing" /></td>
+      <td width="20%" align="right" valign="middle" style="border: none;"><img src="./assets/throwing.webp" width="60%" alt="Naruto throwing" /></td>
       <td width="60%" align="center" valign="middle" style="border: none;">
         <a href="https://github.com/eerfinn"><img src="https://komarev.com/ghpvc/?username=eerfinn&label=Profile%20Views&labelColor=0D1117&color=FF6B00&style=flat" alt="Profile Views" /></a><br>
         <a href="https://www.linkedin.com/in/eerfinn/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-FF6B00?logo=linkedin-white&logoColor=fff&labelColor=0D1117" alt="LinkedIn" /></a>&nbsp;
         <a href="mailto:erfinbrian@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=white&labelColor=0D1117&color=FF6B00" alt="Email" /></a>&nbsp;
         <a href="https://www.instagram.com/eerfinn_/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat&logo=instagram&logoColor=white&labelColor=0D1117&color=FF6B00" alt="Instagram" /></a>&nbsp;
       </td>
-      <td width="20%" align="left" valign="middle" style="border: none;"><img src="./assets/throwing-flip.png" width="60%" alt="Naruto throwing" /></td>
+      <td width="20%" align="left" valign="middle" style="border: none;"><img src="./assets/throwing-flip.webp" width="60%" alt="Naruto throwing" /></td>
     </tr>
   </table>
 </div>
